@@ -1,4 +1,4 @@
-public class main{
+public class mainClass{
     public static void main(String[] args){
         Die dice[] = new Die[50];
         int totalDiceValue = 0;
